@@ -1,5 +1,5 @@
 # E-Library
-A simple E-Library made with HTML, CSS and PHP. One can host this on their local server and share Ebooks with others on the same network.
+A simple E-Library made from HTML, CSS and PHP. One can host this on their local server and share E-books, Question papers, Documents etc. with others on the same network.
 
 # Features!
 
@@ -34,6 +34,6 @@ A simple E-Library made with HTML, CSS and PHP. One can host this on their local
 
 ### License
 
-MIT. Free Software, Hell Yeah!
+- MIT. Free Software, Hell Yeah!
 
 
