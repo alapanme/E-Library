@@ -30,6 +30,10 @@ A simple E-Library made with HTML, CSS and PHP. One can host this on their local
 
 ![e-library home](https://user-images.githubusercontent.com/25705483/28074997-bb28b3ba-6677-11e7-86f3-4a261512dd34.JPG)
 
-(https://raw.github.com/alapanme/E-Library/master/screenshots/E-Librar
+![e-library main](https://user-images.githubusercontent.com/25705483/28075088-07673986-6678-11e7-8c31-55aa2a3a2584.JPG)
+
+### License
+
+MIT. Free Software, Hell Yeah!
 
 
