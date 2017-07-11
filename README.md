@@ -25,6 +25,7 @@ A simple E-Library made from HTML, CSS and PHP. One can host this on their local
 - Create a database named 'newdb' and in that create table 'bookdb' with 7 fields: bookname, bookdesc, bookauthor, booklang, bookfile,   uploadername, uploaderemail
 - Make sure all the fileds has the type varchar.
 - Download the project files in Xampp\htdocs\ location and then access the index.html file.
+- Inside htdocs folder create a folder 'files'. The books will be uploaded to this location.
 
 ### Screenshots
 
