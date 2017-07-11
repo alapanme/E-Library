@@ -1,5 +1,5 @@
 # E-Library
-A simple E-Library made with Html, Css and Php. One can host this on their local server and share Ebooks with others on the same network.
+A simple E-Library made with HTML, CSS and PHP. One can host this on their local server and share Ebooks with others on the same network.
 
 # Features!
 
@@ -25,6 +25,10 @@ A simple E-Library made with Html, Css and Php. One can host this on their local
 - Create a database named 'newdb' and in that create table 'bookdb' with 7 fields: bookname, bookdesc, bookauthor, booklang, bookfile,   uploadername, uploaderemail
 - Make sure all the fileds has the type varchar.
 - Download the project files in Xampp\htdocs\ location and then access the index.html file.
+
+### Screenshots
+
+[(http://postmyimage.com/img2/912_E_Library.JPG)]
 
 
 
