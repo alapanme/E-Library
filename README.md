@@ -1,5 +1,5 @@
 # E-Library
-A simple E-Library made from HTML, CSS and PHP. One can host this on their local server and share E-books, Question papers, Documents etc. with others on the same network.
+A simple E-Library made from HTML, CSS and PHP. One can host this on their local server and share E-books, Question papers, Documents etc. with others.
 
 # Features!
 
