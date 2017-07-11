@@ -19,12 +19,12 @@ A simple E-Library made with Html, Css and Php. One can host this on their local
 ### Installation
 
 
-- 1. Install XAMPP Server.
-- 2. Start My Apche and MySQL modules. 
-- 3. Go to PhpMy Adminsection from the url http://localhost:8080
-- 4. Create a database named 'newdb' and in that create table 'bookdb' with 7 fields: bookname, bookdesc, bookauthor, booklang, bookfile, uploadername, uploaderemail
-- 5. Make sure all the fileds has the type varchar.
-- 6. Download the project files in Xampp\htdocs\ location and then access the index.html file.
+- Install XAMPP Server.
+- Start My Apche and MySQL modules. 
+- Go to PhpMy Adminsection from the url http://localhost:8080
+- Create a database named 'newdb' and in that create table 'bookdb' with 7 fields: bookname, bookdesc, bookauthor, booklang, bookfile,   uploadername, uploaderemail
+- Make sure all the fileds has the type varchar.
+- Download the project files in Xampp\htdocs\ location and then access the index.html file.
 
 
 
