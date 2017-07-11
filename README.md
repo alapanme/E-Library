@@ -28,10 +28,8 @@ A simple E-Library made with HTML, CSS and PHP. One can host this on their local
 
 ### Screenshots
 
-(https://raw.github.com/alapanme/E-Library/master/screenshots/E-Library Home)
+![e-library home](https://user-images.githubusercontent.com/25705483/28074997-bb28b3ba-6677-11e7-86f3-4a261512dd34.JPG)
 
-(https://raw.github.com/alapanme/E-Library/master/screenshots/E-Library Main)
-
-
+(https://raw.github.com/alapanme/E-Library/master/screenshots/E-Librar
 
 
