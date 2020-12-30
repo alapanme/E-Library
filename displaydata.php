@@ -25,7 +25,7 @@ $result = $conn->query($sql);
 		<ul>
 			<li><a href="index.html">Home</a></li>
 			<li><a href="">E-Library</a></li>
-			<li><a href="http://alapan.me" target="_blank">Visit My Blog!</a></li>
+			<li><a href="https://www.alapan.me/" target="_blank">Visit My Blog!</a></li>
 		</ul>
 	<div style="overflow-x:auto;">
 	<h1>Books Available for Free Download</h1>
